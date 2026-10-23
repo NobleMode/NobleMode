@@ -1,168 +1,240 @@
 <div align="center">
 
-<!-- DYNAMIC HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=NobleMode&fontSize=80&fontColor=ffffff&fontAlign=50&animation=fadeIn)
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=1277D6&center=true&vCenter=true&width=500&lines=CTO+%40+POSitive;Indie+Game+Developer;Full+Stack+Innovator;Building+Interactive+Experiences" alt="Typing SVG" />
-</a>
+<img src="assets/hero.svg" width="100%" alt="NOBLEMODE — making the strange stuff work, making the working stuff feel good"/>
 
 <br/>
 
-<!-- SOCIAL / STATUS BADGES -->
-<p>
-  <a href="https://github.com/NobleMode">
-    <img src="https://img.shields.io/badge/FOCUS-GAME_DEV_&_SYSTEMS-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-238636?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<sub>📍 HANOI, VN &nbsp;✳&nbsp; NO FIXED GENRE &nbsp;✳&nbsp; OCCASIONAL SLEEP</sub>
+
+<br/><br/>
+
+**[⟶ noblemode.id.vn ↗](https://noblemode.id.vn)** &nbsp;&nbsp;<sup>OR</sup>&nbsp;&nbsp; **[⟶ wander the projects ↗](https://github.com/NobleMode)**
+
+<br/>
+
+`╱╲` &nbsp; **GAMEPLAY SYSTEMS** &nbsp;───&nbsp; **NETWORKS** &nbsp;───&nbsp; **TOOLS** &nbsp; `╱╲`
 
 </div>
 
----
+<br/>
 
-<!-- MAIN DASHBOARD GRID -->
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="25" /> **Game Engineering**
-<br/>
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/ShaderLab-000000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Blender-e87d0d?style=for-the-badge&logo=blender&logoColor=white" />
+**A small dispatch from the workbench** &nbsp;↙
 
-</td>
-<td width="50%" valign="top" style="border: none;">
+I build games, tools, and systems. Different rabbit holes; same fixation: make the complicated bit disappear for whoever has to use it. I am great at starting things and decent at finishing them.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> **Full Stack & Core**
+> *Current conditions:* enemies getting smarter. Computers getting more obedient. The build is **probably** fine.
+> <br/><sub>("probably" is doing a lot of work in that sentence.)</sub>
+
 <br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<div align="center">
+
+# ▀▄▀▄▀▄ &nbsp;THE PROJECTS&nbsp; ▄▀▄▀▄▀
+
+<sub>currently making the most noise</sub>
+
+</div>
+
 <br/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Blade-F05340?style=for-the-badge&logo=laravel&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<table>
+<tr>
+<td width="150" align="center" valign="top"><h1>01</h1><sub>INPUT SHOULD<br/>FEEL INSTANT</sub></td>
+<td valign="top">
+
+### Remotier
+
+Remote control for the “wait, is it frozen?” problem. The goal is for another computer to feel less *remote*: responsive input, low latency, no weird pause between thought and action.
+
+**Under the hood** &nbsp;`C#` `C++` `.NET` `networking` `realtime input`
+
+<sub>Yes, I have stared at a cursor for an hour to find 4 milliseconds. No, I don't regret it.</sub>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<table>
+<tr>
+<td valign="top">
 
-<!-- CAPSULE HEADER FOR PROJECTS -->
-![Projects](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=Featured+Projects&fontSize=25&fontColor=ffffff&fontAlign=50&descAlignY=30)
+### <a href="https://github.com/NobleMode/frontal-assault">Frontal Assault ↗</a>
 
-<!-- PROJECT CARDS -->
-<table width="100%">
-  <tr>
-    <!-- PROJECT 1 -->
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/makecolour/POSitive">POSitive</a>
-      </h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/ROLE-CTO-FF0000?style=flat-square" />
-        <br/><br/>
-        Next-gen Point of Sale (POS) solution built for scalability.
-        <br/><br/>
-        <code>PHP</code> <code>Blade</code> <code>Vue</code>
-      </div>
-    </td>
-    <!-- PROJECT 2 -->
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/NobleMode/leapMotion">LeapMotion Game</a>
-      </h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/STATUS-FINISHED-success?style=flat-square" />
-        <br/><br/>
-        **Sole Developer.** Immersive hand-tracking interaction game.
-        <br/><br/>
-        <code>C#</code> <code>ShaderLab</code> <code>HLSL</code>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <!-- PROJECT 3 -->
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/NobleMode/frontal-assault">Frontal (WIP)</a>
-      </h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/TYPE-INDIE_FPS-blue?style=flat-square" />
-        <br/><br/>
-        Hunger Games / Battle Royale inspired FPS. Custom assets.
-        <br/><br/>
-        <code>Godot</code> <code>GDScript</code> <code>Vulkan</code>
-      </div>
-    </td>
-    <!-- PROJECT 4 -->
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/kaiday/Wonder-World">Wonder World</a>
-      </h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/ROLE-MAIN_CODER-purple?style=flat-square" />
-        <br/><br/>
-        Educational English learning game with engaging cute graphics.
-        <br/><br/>
-        <code>Unity</code> <code>WebGL</code> <code>UI Design</code>
-      </div>
-    </td>
-  </tr>
+The waves keep coming. Resources keep shrinking. Your plan was good for about twelve seconds.
+
+`GDScript` `GLSL ES` `combat systems` `enemy AI`
+
+**FIGHT** → SCAVENGE → *REGRET* → REPEAT
+
+<sub>I wrote the enemy AI. It now beats me at my own game. Growth.</sub>
+
+</td>
+<td width="150" align="center" valign="top"><h1>02</h1><sub>PVE SURVIVAL<br/>GODOT 4</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="150" align="center" valign="top"><h1>03</h1><sub>INVENTORY<br/>FULL. AGAIN.</sub></td>
+<td valign="top">
+
+### WunderKraft
+
+An RPG-sim about loot, inventory Tetris, and weapon fusion. There is absolutely room for one more item. (There is not.)
+
+**Unity 6** &nbsp;·&nbsp; `C#` `HLSL` &nbsp;·&nbsp; combat &amp; AI
+
+<sub>Built a whole system to manage clutter, because my real-life clutter is unmanageable.</sub>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top">
+
+### StaLink
+
+Files, keyboards, and clipboard thoughts travelling between devices. Making a pile of computers behave like one computer with a decent amount of emotional intelligence.
+
+`JavaScript` `Python` `Mutagen` `Deskflow`
+
+<sub>Copy on one computer, paste on another. Feels illegal. Isn't.</sub>
+
+</td>
+<td width="150" align="center" valign="top"><h1>04</h1><sub>DEVICES:<br/>PLEASE GET ALONG</sub></td>
+</tr>
 </table>
 
 <br/>
 
-<!-- UTILITIES SECTION (SMALLER LIST) -->
-### 🛠️ **Tools, Extensions & Systems**
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[PoolManagementSystem](https://github.com/ToHoangHiep/PoolManagementSystem)** | `Java` `CSS` | Comprehensive pool service management system. |
-| **[QuickTextTransporter](https://github.com/NobleMode/QuickTextTranporter)** | `C#` `Batch` | Seamless PC-to-PC text/file transfer client. |
-| **[GPT_Next](https://github.com/makecolour/GPT_Next)** | `JS` `ChromeAPI` | Extension integrating GPT for student productivity. |
-| **[DiscordSPTRSS](https://github.com/NobleMode/DiscordSPTRSS)** | `TypeScript` | Discord RSS feed bot for SPT Mod Lists. |
-
-<br/>
-
-<!-- EXPERIENCE SECTION -->
-![Experience](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=header&text=Career+Trajectory&fontSize=25&fontColor=ffffff&fontAlign=50&descAlignY=30)
-
-*   **05/2023 - Present** &nbsp; 👾 &nbsp; **Chillin Studio** — *Developer & Designer*
-*   **04/2024 - Present** &nbsp; 🤝 &nbsp; **JS Club (FPTU)** — *Specialized Member*
-*   **07/2024 - 12/2024** &nbsp; 🚀 &nbsp; **IEC Games** — *Intern Unity Developer (Solo Dev)*
-*   **02/2024 - 06/2024** &nbsp; 🧩 &nbsp; **KIS Vietnam** — *Collaborator (Mobile Games)*
-
-<br/>
-
-<!-- AWARDS SECTION -->
-### 🏆 **Honors & Certifications**
-
-> **Awards:** 4th Place - Algorithms Arena 5.0 (2024) • 4th Place - Coding Inspiration (2023)
-
-> **Certs:** Software Development Lifecycle (2024) • Web Design & Programming (2023) • Networking (2023) • IELTS 7.0
-
-<br/>
-
-<!-- FOOTER STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NobleMode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobleMode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="170" />
+
+# ▀▄▀▄▀▄ &nbsp;PREVIOUSLY, IN THE OTHER TABS&nbsp; ▄▀▄▀▄▀
+
+<sub>older stuff. still works. mostly.</sub>
+
+</div>
+
+```text
+ ┌──────────────┬──────────────┬──────────────┬──────────────┬───┐
+ │ POSitive   x │ Gesture..  x │ Wi-Fi Scan x │ Transport. x │ + │
+ └──────────────┴──────────────┴──────────────┴──────────────┴───┘
+   (4 tabs open · 0 closing · ram: crying)
+```
+
+| ▸ | tab | what it does | stack |
+|:-:|:--|:--|:--|
+| 🧾 | **[POSitive ↗](https://github.com/makecolour/POSitive)** | Cloud POS and e-invoice workflows. Checkout, with fewer plot twists. | `Laravel` `PHP` `MySQL` |
+| 🖐️ | **[GestureTower ↗](https://github.com/NobleMode/leapMotion)** | A Unity game played with actual hand gestures. No mouse. Hands. | `Unity` `C#` `Leap Motion` |
+| 📶 | **Android Wi-Fi Scanner** | Wi-Fi QR codes for devices that missed the quick-connect memo. | `Kotlin` `Android SDK` `ZXing` |
+| 📨 | **Quick Text Transporter** | Sneak files and text between devices on the same network. | `C#` `LAN` |
+
+<br/>
+
+<div align="center">
+
+# ▀▄▀▄▀▄ &nbsp;THE TOOL SHED&nbsp; ▄▀▄▀▄▀
+
+*Everything is in its place. The place is “somewhere in here.”*
+
+</div>
+
+<table>
+<tr>
+<td width="130" align="center"><b>SHELF 1</b><br/>🗡️<br/><sub>sharp things</sub></td>
+<td><b>LANGUAGES</b><br/><br/>
+<table><tr>
+<td align="center" width="96"><a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"/></a><br/><sub><b>C#</b></sub></td>
+<td align="center" width="96"><a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/></a><br/><sub><b>C++</b></sub></td>
+<td align="center" width="96"><a href="https://dev.java"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/></a><br/><sub><b>Java</b></sub></td>
+<td align="center" width="96"><a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/></a><br/><sub><b>Python</b></sub></td>
+<td align="center" width="96"><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/></a><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="96"><a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/></a><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="96"><a href="https://en.wikipedia.org/wiki/SQL"><img src="assets/icons/sql.svg" width="48" height="48" alt="SQL"/></a><br/><sub><b>SQL</b></sub></td>
+</tr></table>
+</td>
+</tr>
+<tr>
+<td width="130" align="center"><b>SHELF 2</b><br/>🛠️<br/><sub>big machines</sub></td>
+<td><b>ENGINES &amp; FRAMEWORKS</b><br/><br/>
+<table><tr>
+<td align="center" width="96"><a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity"/></a><br/><sub><b>Unity</b></sub></td>
+<td align="center" width="96"><a href="https://godotengine.org"><img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot"/></a><br/><sub><b>Godot</b></sub></td>
+<td align="center" width="96"><a href="https://flaxengine.com"><img src="assets/icons/flax.svg" width="48" height="48" alt="Flax"/></a><br/><sub><b>Flax</b></sub></td>
+<td align="center" width="96"><a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot"/></a><br/><sub><b>Spring Boot</b></sub></td>
+<td align="center" width="96"><a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET"/></a><br/><sub><b>ASP.NET</b></sub></td>
+<td align="center" width="96"><a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/></a><br/><sub><b>Node.js</b></sub></td>
+</tr></table>
+</td>
+</tr>
+<tr>
+<td width="130" align="center"><b>SHELF 3</b><br/>🧰<br/><sub>the plumbing</sub></td>
+<td><b>SYSTEMS</b><br/><br/>
+<table><tr>
+<td align="center" width="96"><a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/></a><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="96"><a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/></a><br/><sub><b>MySQL</b></sub></td>
+<td align="center" width="96"><a href="https://en.wikipedia.org/wiki/REST"><img src="assets/icons/rest.svg" width="48" height="48" alt="REST"/></a><br/><sub><b>REST</b></sub></td>
+<td align="center" width="96"><a href="https://en.wikipedia.org/wiki/Network_socket"><img src="assets/icons/sockets.svg" width="48" height="48" alt="sockets"/></a><br/><sub><b>sockets</b></sub></td>
+<td align="center" width="96"><a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka"/></a><br/><sub><b>Kafka</b></sub></td>
+<td align="center" width="96"><a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/></a><br/><sub><b>Linux</b></sub></td>
+<td align="center" width="96"><a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a><br/><sub><b>Docker</b></sub></td>
+</tr></table>
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</sub></div>
+
+<details>
+<summary><sup><b>THE BORING-ON-PURPOSE BIT &nbsp;↓</b></sup> &nbsp;<sub>(the grown-up stuff, in snack size)</sub></summary>
+
+<br/>
+
+<div align="center">
+
+**💼 WORK**<br/>
+<img src="https://img.shields.io/badge/POSitive_/_HubSportWeb-2025--2026-ff3d71?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/Chillin_Studio-2023--2026-ff3d71?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/IEC_Games-2024-ff3d71?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/KIS_Vietnam-2023-ff3d71?style=flat-square&labelColor=111"/>
+
+**🎓 STUDY**<br/>
+<img src="https://img.shields.io/badge/Software_Engineering-FPT_University,_Hanoi_2023--2026-c6ff00?style=flat-square&labelColor=111"/>
+
+**🏆 TINY PODIUM TOUR**<br/>
+<img src="https://img.shields.io/badge/🥈_2nd-Coding_Inspiration_2026-ffb300?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/4th-Algorithm_Arena_5.0_(2024)-ffb300?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/4th-Coding_Inspiration_2023-ffb300?style=flat-square&labelColor=111"/>
+
+**📎 EXTRA STATS**<br/>
+<img src="https://img.shields.io/badge/IELTS-7.5-00fff?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/CS50x-Harvard-00fff?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/Cisco-IT_Essentials-00fff?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/Coursera-Project_Management-00fff?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/KS57-AI_&_Digital_Transformation-00fff?style=flat-square&labelColor=111"/>
+
+</div>
+
+<br/>
+
+```diff
+  2023  ▸ KIS Vietnam · Chillin Studio · FPT University (day one)
++ 2024  ▸ IEC Games · 4th, Algorithm Arena 5.0
++ 2025  ▸ POSitive / HubSportWeb
+! 2026  ▸ 2nd, Coding Inspiration · graduated (survived)
+- NOW   ▸ still opening new tabs
+```
+
+</details>
+
+<br/>
+
+<div align="center">
+
+✳ &nbsp;&nbsp; so, what are you making? &nbsp;&nbsp; ✳
+
+**[send me down a new rabbit hole ↗](https://noblemode.id.vn)**
+
 </div>

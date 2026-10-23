@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" width="1000" height="440">
+<style>
+@keyframes j1{0%,94%,100%{transform:translate(-2px,0)}96%{transform:translate(-4px,0)}}
+@keyframes j2{0%,94%,100%{transform:translate(2px,0)}96%{transform:translate(4px,0)}}
+@keyframes bl{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes mq{from{transform:translateX(0)}to{transform:translateX(-1000px)}}
+.r{animation:j1 6s steps(1) infinite}.c{animation:j2 6s steps(1) infinite}
+.bl{animation:bl 1s steps(1) infinite}.mq{animation:mq 14s linear infinite}
+</style>
+<defs>
+<pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#c6ff00" opacity=".12"/></pattern></defs>
+<rect width="1000" height="440" fill="#0b0b0b"/><rect width="1000" height="440" fill="url(#dots)"/>
+<text x="30" y="40" font-family="'Courier New',monospace" font-size="13" fill="#c6ff00" letter-spacing="3">VIETNAM  *  NO FIXED FIXATION  *  OCCASIONAL SLEEP</text>
+<text x="970" y="40" font-family="'Courier New',monospace" font-size="13" fill="#ff2e00" text-anchor="end" letter-spacing="3">WORKING <tspan class="bl">&#9679;</tspan></text>
+<line x1="30" y1="52" x2="970" y2="52" stroke="#c6ff00" stroke-width="2"/>
+<g font-family="Impact,'Arial Black',sans-serif" font-size="190" text-anchor="middle" letter-spacing="-4">
+<text class="r" x="500" y="235" fill="#ff2e00">NOBLEMODE</text>
+<text class="c" x="500" y="235" fill="#00e5ff" style="mix-blend-mode:screen">NOBLEMODE</text>
+<text x="500" y="235" fill="#f4f1e8">NOBLEMODE</text></g>
+<g transform="rotate(-2 500 253)"><rect x="250" y="220" width="500" height="46" fill="#c6ff00"/>
+<text x="500" y="251" font-family="'Courier New',monospace" font-size="22" font-weight="bold" text-anchor="middle" fill="#000">NOT A SERIOUS PERSON* (MAYBE DUMB)</text></g>
+<text x="30" y="300" font-family="Impact,'Arial Black',sans-serif" font-size="30" fill="#f4f1e8" letter-spacing="1">FORCING THE STRANGE STUFF</text>
+<text x="30" y="338" font-family="Impact,'Arial Black',sans-serif" font-size="30" fill="none" stroke="#c6ff00" stroke-width="1.2" letter-spacing="1">FORCING MY CODE TO WORK SMOOTHLY (NOT REALLY WORKING)</text>
+<text x="30" y="380" font-family="'Courier New',monospace" font-size="12" fill="#888">*the build is probably fine.</text>
+<rect x="0" y="400" width="1000" height="40" fill="#c6ff00"/>
+<g class="mq" font-family="'Courier New',monospace" font-size="18" font-weight="bold" fill="#000"><text x="10" y="427" xml:space="preserve">GAMEPLAY SYSTEMS  //  NETWORKS  //  TOOLS  //  GAMEPLAY SYSTEMS  //  NETWORKS  //  TOOLS  //  GAMEPLAY SYSTEMS  //  NETWORKS  //  TOOLS  //  GAMEPLAY SYSTEMS  //  NETWORKS  //  TOOLS  //  GAMEPLAY SYSTEMS  //  NETWORKS  //  TOOLS  //  </text></g>
+</svg>
