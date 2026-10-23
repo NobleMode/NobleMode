@@ -20,10 +20,10 @@
 
 **A small dispatch from the workbench** &nbsp;↙
 
-I build games, tools, and systems. Different rabbit holes; same fixation: make the complicated bit disappear for whoever has to use it. I am great at starting things and decent at finishing them.
+I make games, tools, systems and random stuffs. Different days differents ideas; same terrible sleep schedule and addiction: make stuff that working into own idea and make it worse (or better) for fun. Great at starting stuff but finishing them is a challenges.
 
-> *Current conditions:* enemies getting smarter. Computers getting more obedient. The build is **probably** fine.
-> <br/><sub>("probably" is doing a lot of work in that sentence.)</sub>
+> *Current conditions:* Working. Sleep Deprived. The build is **probably** fine. Ram is like 60% used
+> <br/><sub>(I need to take a nap like for real)</sub>
 
 <br/>
 
@@ -44,11 +44,11 @@ I build games, tools, and systems. Different rabbit holes; same fixation: make t
 
 ### Remotier
 
-Remote control for the “wait, is it frozen?” problem. The goal is for another computer to feel less *remote*: responsive input, low latency, no weird pause between thought and action.
+Remote control for the “wait, is it frozen?” problem. The goal is for another computer to feel less *remote*: responsive input, low latency, no weird pause between thought and action. (Worked for a bit)
 
 **Under the hood** &nbsp;`C#` `C++` `.NET` `networking` `realtime input`
 
-<sub>Yes, I have stared at a cursor for an hour to find 4 milliseconds. No, I don't regret it.</sub>
+<sub>Yes, I have stared at a cursor for an hour to find 4 milliseconds. No, I don't regret it. Rendering DXGI Capture is a curse</sub>
 
 </td>
 </tr>
@@ -66,7 +66,7 @@ The waves keep coming. Resources keep shrinking. Your plan was good for about tw
 
 **FIGHT** → SCAVENGE → *REGRET* → REPEAT
 
-<sub>I wrote the enemy AI. It now beats me at my own game. Growth.</sub>
+<sub>I wrote the enemy AI. It now beats me at my own game. Growth. Made all of this brick by brick. Rewritten this game about 2 times already</sub>
 
 </td>
 <td width="150" align="center" valign="top"><h1>02</h1><sub>PVE SURVIVAL<br/>GODOT 4</sub></td>
@@ -84,7 +84,7 @@ An RPG-sim about loot, inventory Tetris, and weapon fusion. There is absolutely 
 
 **Unity 6** &nbsp;·&nbsp; `C#` `HLSL` &nbsp;·&nbsp; combat &amp; AI
 
-<sub>Built a whole system to manage clutter, because my real-life clutter is unmanageable.</sub>
+<sub>Built a whole system to manage clutter, because my real-life clutter is unmanageable. Made the AI, Combat System and Optimized the hell out of it (Still have not reach 60 FPS)</sub>
 
 </td>
 </tr>
@@ -100,7 +100,7 @@ Files, keyboards, and clipboard thoughts travelling between devices. Making a pi
 
 `JavaScript` `Python` `Mutagen` `Deskflow`
 
-<sub>Copy on one computer, paste on another. Feels illegal. Isn't.</sub>
+<sub>Copy on one computer, paste on another. Feels illegal. Isn't. Have some extra goodies too</sub>
 
 </td>
 <td width="150" align="center" valign="top"><h1>04</h1><sub>DEVICES:<br/>PLEASE GET ALONG</sub></td>
@@ -121,7 +121,7 @@ Files, keyboards, and clipboard thoughts travelling between devices. Making a pi
  ┌──────────────┬──────────────┬──────────────┬──────────────┬───┐
  │ POSitive   x │ Gesture..  x │ Wi-Fi Scan x │ Transport. x │ + │
  └──────────────┴──────────────┴──────────────┴──────────────┴───┘
-   (4 tabs open · 0 closing · ram: crying)
+   (More than 4 tabs open · 0 closing · ram: crying)
 ```
 
 | ▸ | tab | what it does | stack |
