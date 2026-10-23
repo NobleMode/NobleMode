@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-**[⟶ noblemode.id.vn ↗](https://noblemode.id.vn)** &nbsp;&nbsp;<sup>OR</sup>&nbsp;&nbsp; **[⟶ wander the projects ↗](https://github.com/NobleMode)**
+**[⟶ My website (if you cared) ↗](https://noblemode.id.vn)** &nbsp;&nbsp;<sup>OR</sup>&nbsp;&nbsp; **[⟶ wander the projects ↗](https://github.com/NobleMode)**
 
 <br/>
 
